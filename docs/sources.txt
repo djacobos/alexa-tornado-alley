@@ -1,0 +1,13 @@
+=====
+== Get Device ID
+=====
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/handling-requests-sent-by-alexa
+
+https://www.ready.gov/tornadoes
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/device-address-api
+https://forums.developer.amazon.com/questions/66830/forbidden-response-for-device-location-api.html
+
+
+Intents US
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/built-in-intent-ref/slot-type-reference#us_city
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/handling-requests-sent-by-alexa
